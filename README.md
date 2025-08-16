@@ -1,4 +1,5 @@
 # filesafe
+# 请迁移到我们开发的最新版本：[跳转到FS2](https://github.com/com-in/FS2)
 # 简介
 保护你的文件安全|Keep your files safe
 麻烦给一个Star！谢谢
